@@ -1,0 +1,5 @@
+        this.nome = nome;
+        this.marca = marca;
+        this.estoque = estoque;
+        this.preco = preco;
+        this.precoTotal= precoTotal;
