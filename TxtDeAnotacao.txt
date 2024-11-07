@@ -1,5 +1,11 @@
-        this.nome = nome;
-        this.marca = marca;
-        this.estoque = estoque;
-        this.preco = preco;
-        this.precoTotal= precoTotal;
+        this.nome = n;
+        this.idade = idade;
+        this.genero=genero
+        this.formacao= formacao;
+        this.identificacao= identificacao;
+
+        private pessoa: Pessoa;
+    private cargo: string = "";
+    private setor: string = "";
+    private salario: number = 0;
+    private tomandoCafe: boolean = false;
